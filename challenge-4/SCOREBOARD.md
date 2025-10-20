@@ -18,9 +18,11 @@
 | jersonzc | 22 | 22 |
 | jin5335 | 22 | 22 |
 | korranat9 | 22 | 22 |
+| macborowy | 22 | 22 |
 | mick4711 | 22 | 22 |
 | ne0phyte | 22 | 22 |
 | nosrio | 22 | 22 |
+| nzamulov | 22 | 22 |
 | odelbos | 22 | 22 |
 | shapoclack | 22 | 22 |
 | t4e1 | 22 | 22 |
