@@ -12,8 +12,10 @@
 | Hikitak | 7 | 7 |
 | JackDalberg | 7 | 7 |
 | JarhsonNing | 7 | 7 |
+| Johrespi | 7 | 7 |
 | JunLog | 7 | 7 |
 | KhaledMosaad | 7 | 7 |
+| Kosench | 7 | 7 |
 | MYK12397 | 7 | 7 |
 | MuraliMohan-2000 | 7 | 7 |
 | PolinaSvet | 7 | 7 |
@@ -26,6 +28,7 @@
 | aruncs31s | 7 | 7 |
 | ashwinipatankar | 7 | 7 |
 | awsl1110 | 7 | 7 |
+| baindraraj | 7 | 7 |
 | berkaykrc | 7 | 7 |
 | binoymanoj | 7 | 7 |
 | bmamha | 7 | 7 |
@@ -50,6 +53,7 @@
 | odelbos | 7 | 7 |
 | perekoshik | 7 | 7 |
 | richcem | 7 | 7 |
+| rodney-b | 7 | 7 |
 | rohit-jangra-dx | 7 | 7 |
 | skx | 7 | 7 |
 | sultaAann | 7 | 7 |

@@ -1,11 +1,13 @@
 # Scoreboard for challenge-4
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| ADEMOLA200 | 22 | 22 |
 | Ali-Fartoot | 22 | 22 |
 | AliNazariii | 22 | 22 |
 | Ashutosh652 | 22 | 22 |
 | Cpoing | 22 | 22 |
 | Gandook | 22 | 22 |
+| HeimaoLST | 22 | 22 |
 | JackDalberg | 22 | 22 |
 | JarhsonNing | 22 | 22 |
 | PolinaSvet | 22 | 22 |
